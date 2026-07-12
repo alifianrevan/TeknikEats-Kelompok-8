@@ -34,30 +34,42 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 **Use Case 02 - Login**
 --> Pembeli/Penjual masuk ke sistem dengan memasukkan username dan password yang valid.
 
-**Use Case 03 - Membuat menu**
+**Use Case 03 - Membuat Menu**
 --> Penjual membuat menu dengan menambahkan data menu ke dalam aplikasi.
 
 **Use Case 04 - Melihat Menu**
 --> Pembeli/Penjual melihat daftar menu yang tersedia di dalam aplikasi.
 
-**Use Case 05 - Memesan menu**
+**Use Case 05 - Update Menu**
+--> Penjual memperbarui atau mengedit informasi menu seperti harga, deskripsi, atau ketersediaan.
+
+**Use Case 06 - Delete Menu**
+--> Penjual dapat menghapus menu yang ada.
+
+**Use Case 07 - Memesan Menu**
 --> Pembeli memilih dan mengonfirmasi menu yang ingin dipesan, kemudian sistem mencatat pesanan untuk diproses oleh penjual.
 
-**Use Case 06 - Membayar**
---> Pembeli melakukan pembayaran sesuai total pesanan menggunakan metode yang tersedia, lalu status pesanan diperbarui.
+**Use Case 08 - Membayar Pesanan**
+--> Pembeli melakukan pembayaran sesuai total pesanan menggunakan metode pembayaran qris dan tunai yang tersedia, lalu status pesanan diperbarui.
 
-**Use Case 07 - Update menu**
---> Penjual memperbarui informasi menu seperti harga, deskripsi, atau ketersediaan.
-
-**Use Case 08 - Proses pesanan**
---> Penjual menerima pesanan yang masuk dari pembeli
-
-**Use Case 09 - Riwayat pesanan**
+**Use Case 09 - Riwayat Pesanan**
 --> Pembeli melihat daftar pesanan yang pernah dilakukan sebelumnya.
 
-**Use Case 10 - Notifikasi**
---> Melihat pesanan yang diterima -> pembeli.
---> Menerima pesanan yang masuk -> penjual.
+**Use Case 10 - Terima Pesanan**
+--> Penjual menerima pesanan yang masuk dari pembeli.
+
+**Use Case 11 - Pesanan Terkini**
+--> Penjual melihat daftar pesanan yang sedang atau sudah diterima.
+
+**Use Case 12 - Update Status Pesanan**
+--> Penjual mengubah status pesanan pembeli yang diterima.
+
+**Use Case 13 - Lihat Status Pesanan**
+--> Pembeli dapat melihat status pesanan yang sedang dipesan.
+
+**Use Case 14 - Info Pendapatan**
+--> Penjual dapat melihat info pendapatan penjualan.
+
 
 ---
 
