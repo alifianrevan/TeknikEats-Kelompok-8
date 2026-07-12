@@ -29,16 +29,16 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 --> Ingin terdapat sistem informasi menu kantin yang lengkap dan update serta proses pemesanan yang mudah dan efisien tanpa mengantri lama (sering terlambat ke kelas karena antrian).
 
 **Use Case 01 - Registrasi**
---> Pengguna melakukan registrasi dengan mengisi data untuk membuat akun baru.
+--> Pembeli/Penjual melakukan registrasi dengan mengisi data untuk membuat akun baru.
 
 **Use Case 02 - Login**
---> Pengguna masuk ke sistem dengan memasukkan username dan password yang valid.
+--> Pembeli/Penjual masuk ke sistem dengan memasukkan username dan password yang valid.
 
 **Use Case 03 - Membuat menu**
---> Pengguna membuat menu dengan menambahkan data menu ke dalam sistem.
+--> Penjual membuat menu dengan menambahkan data menu ke dalam aplikasi.
 
 **Use Case 04 - Melihat Menu**
---> Pengguna melihat daftar menu yang tersedia di dalam sistem.
+--> Pembeli/Penjual melihat daftar menu yang tersedia di dalam aplikasi.
 
 **Use Case 05 - Memesan menu**
 --> Pembeli memilih dan mengonfirmasi menu yang ingin dipesan, kemudian sistem mencatat pesanan untuk diproses oleh penjual.
