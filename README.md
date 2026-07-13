@@ -102,5 +102,6 @@ https://drive.google.com/drive/folders/19dR-ETK_ylvVIGB8v_z4i_-dgLhVsxr8?usp=sha
 ---
 
 ## PENUTUP
+TeknikEats hadir sebagai aplikasi yang dikembangkan dalam tugas APBO kami untuk membantu penjual kantin mencatat nomor antrean agar lebih teratur dalam proses pemesanan, dan membantu pembeli memesan menu kantin jarak jauh di Kantin Teknik Universitas Pancasila. Melalui aplikasi ini, diharapkan proses manajemen pemesanan menjadi lebih cepat, rapi, dan efisien. TeknikEats juga dirancang dengan mengutamakan kemudahan penggunaan serta tampilan yang menarik sesuai dengan kebutuhan pengguna. Dengan demikian, aplikasi ini diharapkan dapat menghadirkan layanan kantin yang lebih modern, nyaman, dan terorganisir, sekaligus menjadi inovasi digital dalam meningkatkan kualitas layanan.
 
 ---
