@@ -73,6 +73,22 @@ TeknikEats adalah aplikasi pemesanan makanan berbasis digital yang memudahkan pe
 
 ---
 
+**Diagram-Diagram dapat dilihat melalui folder yang tersedia**
+
+**Link Youtube - Video Presentasi**
+https://youtu.be/uA_68jMjlq8
+
+**Link PPT**
+https://canva.link/v2w8iz04vr4k3xz
+
+**Link Figma UI/UX**
+https://www.figma.com/design/rQbLMTwpPxQbVUcun30Op7/PROJEK-AKHIR?node-id=0-1&t=aadb72xw5WXimWVm-1
+
+**Link Drive**
+https://drive.google.com/drive/folders/19dR-ETK_ylvVIGB8v_z4i_-dgLhVsxr8?usp=sharing 
+
+---
+
 ## WORKFLOW!! 
 1. *git clone* (Clone repo ke local)
 2. *git checkout -b NAMAKALIAN* (Membuat branch dengan nama sendiri)
